@@ -1,7 +1,7 @@
 ![logo](https://github.com/shafaq16/shafaq16/blob/main/Untitled%20design%20(5).png)
 <h1 align="center">Hi 👋, I'm Shafaqun Nisa</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" width="400" src="https://camo.githubusercontent.com/361449d715330d0cc1a1af6d72ed8be6744d8c3d9719a8b76836714194e3e419/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966">
+<img align="right" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafaq16&label=Profile%20views&color=0e75b6&style=flat" alt="shafaq16" /> </p>
 
