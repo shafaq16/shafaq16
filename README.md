@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafaq16&label=Profile%20views&color=0e75b6&style=flat" alt="shafaq16" /> </p>
 
-- 🌱 I’m currently learning **C++ , Python**
+- 🌱 I’m currently learning **React, Node.js**
 
-- 💬 Ask me about **HTML , CSS , JS , C**
+- 💬 Ask me about **HTML , CSS , JS , C, C++, Python**
 
 - 📫 How to reach me **nisashafaqun@gmail.com**
 
