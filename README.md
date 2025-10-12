@@ -27,3 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafaq16&show_icons=true&locale=en" alt="shafaq16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafaq16&" alt="shafaq16" /></p>
+
+# 🚀 **Hacktoberfest Open Source Contribution**
+
+[![An image of @shafaq16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shafaq16)](https://holopin.io/@shafaq16)
