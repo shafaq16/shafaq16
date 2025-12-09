@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nisashafaqun@gmail.com**
 
-- ⚡ Fun fact **I think ,i am 🤣**
+- ⚡ Fun fact **I think ,i am 🤣🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
